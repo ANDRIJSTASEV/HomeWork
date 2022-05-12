@@ -1,0 +1,46 @@
+h1{
+	color: red;
+}
+
+.block{
+	color: white;
+	background: blue;
+	width: 98px;
+}
+
+span{
+	color: red;
+}
+.new{
+	height: 125px;
+}
+.block2{
+	color: white;
+	background: green;
+}
+.H2{
+	color: white;
+	background: green;
+	padding: 35px;
+}
+.p2{
+	padding-left: 70px;
+	padding-right: 50px;
+
+}
+span1{
+	border: 2px solid black;
+
+}
+span2{
+	border: 2px solid black;
+
+}
+span3{
+	border: 2px solid black;
+
+}
+.new2{
+	color: white;
+	background: green;
+}
